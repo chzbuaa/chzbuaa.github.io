@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>愿天气晴朗，没有bug</title>
+  
+  <subtitle>记录点滴生活</subtitle>
+  <link href="https://chzbuaa.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://chzbuaa.github.io/"/>
+  <updated>2020-11-15T11:56:53.373Z</updated>
+  <id>https://chzbuaa.github.io/</id>
+  
+  <author>
+    <name>程宏志</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo常用指令</title>
+    <link href="https://chzbuaa.github.io/2020/11/15/hexo%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/"/>
+    <id>https://chzbuaa.github.io/2020/11/15/hexo%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/</id>
+    <published>2020-11-15T11:51:26.000Z</published>
+    <updated>2020-11-15T11:56:53.373Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;改动完之后上传：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;hexo clean 清理上次静态文件
+hexo s -p 5555(去localhost:5555看一眼)
+hexo g  产生静态文件
+hexo d </summary>
+        
+      
+    
+    
+    
+    
+    <category term="博客" scheme="https://chzbuaa.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>创建本网站记录</title>
+    <link href="https://chzbuaa.github.io/2020/11/15/%E5%A6%82%E4%BD%95%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://chzbuaa.github.io/2020/11/15/%E5%A6%82%E4%BD%95%E5%BB%BA%E5%8D%9A%E5%AE%A2/</id>
+    <published>2020-11-15T08:44:17.000Z</published>
+    <updated>2020-11-15T11:35:56.132Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;花了一整天时间搭建了博客，本网站代码发布在&lt;a href=&quot;https://github.com/chzbuaa/&quot;&gt;我的github&lt;/a&gt; &lt;br&gt;欢迎去&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="博客" scheme="https://chzbuaa.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="学习" scheme="https://chzbuaa.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://chzbuaa.github.io/2020/11/15/hello-world/"/>
+    <id>https://chzbuaa.github.io/2020/11/15/hello-world/</id>
+    <published>2020-11-15T02:28:54.924Z</published>
+    <updated>2020-11-15T02:28:54.924Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
