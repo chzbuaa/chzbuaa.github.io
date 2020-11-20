@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>愿天气晴朗，没有bug</title>
+  <title>knight in shining armor</title>
   
-  <subtitle>记录点滴生活</subtitle>
+  <subtitle>Life is full of opportunities and challenges</subtitle>
   <link href="https://chzbuaa.github.io/atom.xml" rel="self"/>
   
   <link href="https://chzbuaa.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://chzbuaa.github.io/</id>
   
   <author>
-    <name>程宏志</name>
+    <name>chz</name>
     
   </author>
   
